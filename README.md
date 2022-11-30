@@ -1,6 +1,4 @@
-# MEDHeal
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![MIT](https://img.shields.io/github/license/Aman-Codes/MedBuddy?color=blue)
+# MedHeal
 
 
 It is a website which connects doctors, patients, and services like ambulance provider. <br/>
